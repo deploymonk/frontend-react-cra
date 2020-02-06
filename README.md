@@ -1,4 +1,4 @@
-<img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60">
+<a href="https://deploymonk.com/"><img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60"></a>
 
 A super simple React application.
 
