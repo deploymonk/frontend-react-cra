@@ -1,9 +1,12 @@
-# frontend-react-cra
+<img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60">
 
-Repository for the the following guide:
+A super simple React application.
 
-**Create React App**
+## Getting started
 
-Deploy your client front-end websites and web applications build using `create-react-app` framework easily using Deploy Monk.
+- Clone this repository: `git clone git@github.com:deploymonk/frontend-react-cra.git`
+- Install dependencies: `npm install`
+- Start server: `npm start`
 
-Link: [explore.deploymonk.com/docs/frontend-react-cra](https://explore.deploymonk.com/docs/frontend-react-cra)
+## Deploy
+Deploy your own clone of this repository using Deploy Monk. Head to [explore.deploymonk.com/docs/frontend-react-cra](https://explore.deploymonk.com/docs/frontend-react-cra) to learn more!
